@@ -60,7 +60,7 @@ Even now, AI labs already [need to pay expert software engineers](<https://www.n
 
 People too often just picture a “GPT-6 chatbot,” informing their intuitions that surely these wouldn’t be dangerously misaligned. As discussed previously in this series, the “[unhobbling](<https://situational-awareness.ai/from-gpt-4-to-agi/#From_chatbot_to_agent-coworker> "unhobbling")” trajectory points to agents, trained with RL, in the near future. I think Roger’s graphic gets it right:
 
-![figure](https://situational-awareness.ai/wp-content/uploads/2024/06/roger_grosse_alignment.png)_[Roger Grosse](<https://x.com/RogerGrosse/status/1758506017791279440> "Roger Grosse")_ (Professor at the University of Toronto)
+![figure](../images/roger_grosse_alignment.png)_[Roger Grosse](<https://x.com/RogerGrosse/status/1758506017791279440> "Roger Grosse")_ (Professor at the University of Toronto)
 
 One way to think of what we’re trying to accomplish with alignment, from the safety perspective, is add _side-constraints._ Consider a future powerful “base model” that, in a second stage of training, we train with long-horizon RL to run a business and make money7 (as a simplified example):
 

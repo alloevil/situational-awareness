@@ -228,7 +228,7 @@ We’ve made huge strides in “unhobbling” models over the past few years. Th
 
 While it’s hard to put these on a unified effective compute scale with compute and algorithmic efficiencies, it’s clear these are _huge_ gains, at least on a roughly similar magnitude as the compute scaleup and algorithmic efficiencies. (It also highlights the central role of algorithmic progress: the 0.5 OOMs/year of compute efficiencies, already significant, are only part of the story, and put together with unhobbling algorithmic progress overall is maybe even a majority of the gains on the current trend.)
 
-![figure](https://situational-awareness.ai/wp-content/uploads/2024/06/stacked_compute_algos_unhobbling.png)
+![figure](../images/stacked_compute_algos_unhobbling.png)
 
 “Unhobbling” is what actually enabled these models to become useful—and I’d argue that much of what is holding back many commercial applications today is the need for further “unhobbling” of this sort. Indeed, _models today are still incredibly hobbled_! For example:
 
